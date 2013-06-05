@@ -1725,3 +1725,13 @@ img#wpstats {
 		margin-left: 3.57142857rem;
 	}
 }
+
+/* =Custom
+----------------------------------------------- */
+body { 
+  background: #e6e6e6 url(images/bg.jpg) no-repeat center top; 
+  -webkit-background-size: 100% auto;
+  -moz-background-size: 100% auto;
+  -o-background-size: 100% auto;
+  background-size: 100% auto;
+}
